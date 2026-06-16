@@ -1,0 +1,13 @@
+Derived data products in the data/ directory are licensed under the
+Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+
+You are free to share and adapt the material for any purpose, provided you give
+appropriate credit, provide a link to the license, and indicate if changes were
+made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Note on raw inputs: USGS NWIS / Water Quality Portal and USDA NASS QuickStats
+data are U.S. Government works in the public domain. The Iowa Environmental
+Mesonet and IFEWS nitrogen-surplus products are redistributed here under their
+respective terms; see README.md for sources and links.

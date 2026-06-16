@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the article and this archive."
+title: "Climate-Gated Nitrogen Export: code and data (Iowa counties, 2001-2019)"
+authors:
+  - family-names: Soetan
+    given-names: Samuel Mayokun
+    affiliation: "Iowa State University"
+  - family-names: Kaleita
+    given-names: Amy
+    affiliation: "Iowa State University"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-06-16"
+doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: "Climate-Gated Nitrogen Export: Hydroclimatic Timing Improves the Efficiency of Nitrogen-Surplus Reductions in Iowa"
+  authors:
+    - family-names: Soetan
+      given-names: Samuel Mayokun
+    - family-names: Kaleita
+      given-names: Amy
+  year: 2026
