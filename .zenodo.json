@@ -1,6 +1,6 @@
 {
   "title": "Climate-Gated Nitrogen Export: code and data (Iowa counties, 2001-2019)",
-  "description": "Reproducibility archive for Soetan & Kaleita, 'Climate-Gated Nitrogen Export: Hydroclimatic Timing Improves the Efficiency of Nitrogen-Surplus Reductions in Iowa.' Includes the county-year panel, county-month load products, data-construction and analysis notebooks, and confirmatory-analysis code (load-coverage and flow-weighted-concentration tests). Regenerates all figures, tables, and statistics from publicly available USGS, USDA NASS, IEM, and IFEWS inputs.",
+  "description": "Reproducibility archive for Soetan & Kaleita, 'Climate-Gated Nitrogen Export: Hydroclimatic Timing Improves the Efficiency of Nitrogen-Surplus Reductions in Iowa.' Includes the county-year panel, county-month load products, data-construction and analysis notebooks, and confirmatory-analysis code. Regenerates figures, tables, and statistics from publicly available USGS, USDA NASS, IEM, and IFEWS inputs.",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -24,13 +24,6 @@
     {
       "name": "Kaleita, Amy",
       "affiliation": "Department of Agricultural and Biosystems Engineering, Iowa State University"
-    }
-  ],
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "TODO-add-article-DOI-on-acceptance",
-      "scheme": "doi"
     }
   ]
 }
