@@ -1,0 +1,31 @@
+{
+  "title": "Climate-Gated Nitrogen Export: corrected code and data for an equal-effort timing analysis in Iowa",
+  "description": "Corrected reproducibility archive for Soetan and Kaleita, 'Climate-Gated Nitrogen Export: An Equal-Effort Analysis of Nitrogen-Surplus Reduction Timing in Iowa.' The release contains the 1,750-row complete-case county-year model frame for 98 Iowa counties during 2001-2019, portable analysis code, manuscript figures, machine-readable results, and robustness outputs. The primary counterfactual restricts reductions to positive surplus and sets negative modeled marginal responses to zero.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "nitrogen surplus",
+    "nitrate load",
+    "precipitation",
+    "tile drainage",
+    "water quality",
+    "climate adaptation",
+    "fixed-effects regression",
+    "random forest",
+    "Corn Belt",
+    "nutrient management",
+    "Iowa"
+  ],
+  "creators": [
+    {
+      "name": "Soetan, Samuel Mayokun",
+      "affiliation": "Department of Agricultural and Biosystems Engineering, Iowa State University"
+    },
+    {
+      "name": "Kaleita, Amy",
+      "affiliation": "Department of Agricultural and Biosystems Engineering, Iowa State University"
+    }
+  ]
+}
+
